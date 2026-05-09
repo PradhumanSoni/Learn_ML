@@ -1,4 +1,4 @@
-readme_content = """# 🛒 E-Commerce Customer Yearly Spending Prediction
+🛒 E-Commerce Customer Yearly Spending Prediction
 
 A mini machine learning project that uses **Linear Regression** to predict the yearly amount spent by customers of an e-commerce platform based on their behavioral metrics (app usage, website usage, session length, and membership duration).
 
